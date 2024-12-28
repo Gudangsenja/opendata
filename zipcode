@@ -1,0 +1,34 @@
+$zipRanges = [
+    // Johor
+    ['start' => 79000, 'end' => 86900],
+    // Kedah
+    ['start' => 5000, 'end' => 9889],
+    // Kelantan
+    ['start' => 15000, 'end' => 18500],
+    // Melaka
+    ['start' => 75000, 'end' => 78300],
+    // Negeri Sembilan
+    ['start' => 70000, 'end' => 73500],
+    // Pahang
+    ['start' => 25000, 'end' => 28800],
+    // Perak
+    ['start' => 30000, 'end' => 36810],
+    // Perlis
+    ['start' => 1000, 'end' => 3000],
+    // Pulau Pinang (Penang)
+    ['start' => 10000, 'end' => 14400],
+    // Sabah
+    ['start' => 88000, 'end' => 91309],
+    // Sarawak
+    ['start' => 93000, 'end' => 98850],
+    // Selangor
+    ['start' => 40000, 'end' => 48300],
+    // Terengganu
+    ['start' => 20000, 'end' => 24300],
+    // Kuala Lumpur
+    ['start' => 50000, 'end' => 60000],
+    // Putrajaya
+    ['start' => 62000, 'end' => 62999],
+    // Labuan
+    ['start' => 87000, 'end' => 87033],
+];
